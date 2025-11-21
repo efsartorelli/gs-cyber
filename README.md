@@ -222,6 +222,6 @@ Este projeto demonstra, de forma prática:
 ✔️ Como aplicar boas práticas de defesa  
 ✔️ Como ferramentas DevSecOps identificam essas falhas no pipeline CI/CD  
 
-Esse material atende aos critérios da Global Solution e pode ser usado na apresentação em vídeo.  
-Boa sorte na entrega! 🚀🔥
+RM94618 - Enzo Vazquez Sartorelli
+RM94524 - Eduardo de Oliveira Nistal
 
